@@ -37,12 +37,17 @@ For the sake of simplicity and speed, I kept the main code all in one script. Fo
 ## 🖼️ Screenshots
 Here are some screenshots of the app in action:
 
+Dark and light modes, create and delete boards.
+<img width="1003" height="718" alt="dark and light mode" src="https://github.com/user-attachments/assets/efcfd60b-b5ff-4aed-90f5-8067c096392d" />
 
-<img width="1185" height="892" alt="Screenshot 2026-02-09 164349" src="https://github.com/user-attachments/assets/47bcbce4-f2d6-41a2-9338-c651f57ff496" />
-
-Below shows the drag and drop functionality, moving cards across columns.
+Drag and drop functionality, moving cards across columns.
 <img width="570" height="240" alt="Screenshot 2026-04-27 115115" src="https://github.com/user-attachments/assets/e6d748b0-059f-42eb-95ef-88d62abb775c" />
 
+Example board
+<img width="1002" height="600" alt="Screenshot 2026-04-27 141653" src="https://github.com/user-attachments/assets/37a4218b-9ecc-405a-9582-2369485d55f7" />
+
+Card metadata
+<img width="1005" height="718" alt="Screenshot 2026-04-27 141754" src="https://github.com/user-attachments/assets/09ecd731-2964-4226-8543-d966c40c3a11" />
 
 
 
