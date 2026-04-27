@@ -35,7 +35,7 @@ For the sake of simplicity and speed, I kept the main code all in one script. Fo
 - Git Bash
 ***
 ## 🖼️ Screenshots
-Here are some screenshots of the app in action:
+**Here are some screenshots of the app in action:**
 
 Dark and light modes, create and delete boards.
 <img width="1003" height="718" alt="dark and light mode" src="https://github.com/user-attachments/assets/efcfd60b-b5ff-4aed-90f5-8067c096392d" />
