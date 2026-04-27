@@ -1,9 +1,9 @@
-# Task Management App Project
+# 🗂️ KanbanApp - Offline-First Task Management App
 
-## Introduction
+## About this project
 The goal of this project was to create a simple, offline, desktop application with local storage. This project was intended for learning and enhancing skills within Javascript, HTML and CSS, aswell as rapid development and testing of key features. My intention was to use these tools to keep the project as simple as possible when working with Electron. I used AI to help implement some of the more complex features, as well as other online learning tools like W3schools.
 
-## Description
+## How it works
 This task management app uses the style of Kanban to help users visualise workflows. Trello is a popular tool for this, as a result I tried to create something similar with an offline-first approach. 
 
 App functionality:
@@ -24,7 +24,7 @@ I gained a deeper understanding of how desktop apps are developed using web tech
 
 For the sake of simplicity and speed, I kept the main code all in one script. For a serious project I'd change that in future, so the code is earier to read, implement, debug and scale. Although I'm happy with the tools I used, I've heard good things about Tauri and would probably opt for it for future projects that are of similar size to this one.
 
-## Technologies used
+## 🧰 Tech Stack
 - JavaScript
 - HTML
 - CSS
