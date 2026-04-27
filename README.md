@@ -1,5 +1,6 @@
-# 🗂️ KanbanApp - Offline-First Task Management App
-
+# 🗂️ KanbanApp
+**An offline-first kanban board desktop app**
+***
 ## About this project
 The goal of this project was to create a simple, offline, desktop application with local storage. This project was intended for learning and enhancing skills within Javascript, HTML and CSS, aswell as rapid development and testing of key features. My intention was to use these tools to keep the project as simple as possible when working with Electron. I used AI to help implement some of the more complex features, as well as other online learning tools like W3schools.
 
