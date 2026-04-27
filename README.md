@@ -35,7 +35,9 @@ For the sake of simplicity and speed, I kept the main code all in one script. Fo
 - Git Bash
 ***
 ## 🖼️ Screenshots
-Here are some screenshots of the app in action.
+Here are some screenshots of the app in action:
+
+
 <img width="1185" height="892" alt="Screenshot 2026-02-09 164349" src="https://github.com/user-attachments/assets/47bcbce4-f2d6-41a2-9338-c651f57ff496" />
 
 <img width="831" height="529" alt="Screenshot 2026-04-27 114643" src="https://github.com/user-attachments/assets/cf4ce0a3-38af-4dc7-a81c-f78aa043cc55" />
@@ -45,6 +47,6 @@ Here are some screenshots of the app in action.
 
 <img width="841" height="600" alt="Screenshot 2026-04-27 114849" src="https://github.com/user-attachments/assets/4da8c720-e689-4244-baf5-f3f255e5dd58" />
 
-- 
+Below shows the drag and drop functionality
 <img width="570" height="240" alt="Screenshot 2026-04-27 115115" src="https://github.com/user-attachments/assets/e6d748b0-059f-42eb-95ef-88d62abb775c" />
 
