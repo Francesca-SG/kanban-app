@@ -2,7 +2,7 @@
 **An offline-first kanban board desktop app with local storage.**
 ***
 ## 🧭 About this project
-The goal of this project was to create a simple, offline, desktop application with local storage. This project was intended for learning and enhancing skills within Javascript, HTML and CSS, aswell as rapid development and testing key features. My intention was to use these tools to keep the project as simple as possible when working with Electron. I used AI to help implement some of the more complex features and speed up the development process.
+The goal of this project was to create a simple, offline, desktop application with local storage. This project was intended for learning and enhancing skills within Javascript, HTML and CSS, rapid development and testing key features and lastly because I wanted to create a tool I could use myself. My intention was to use these tools to keep the project as simple as possible when working with Electron. I used AI to help implement some of the more complex features and speed up the development process.
 ***
 ## 🛠️ What this does
 This app uses the visual elements of kanban, including boards, columns, and cards, to help you organise tasks. Trello is a popular tool for this, as a result I tried to create something similar with an offline-first, local storage approach. 
